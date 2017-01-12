@@ -14,5 +14,5 @@ print(my_string.exclaim(20))
 print(my_string.replace('h','j'))
 
 #Test the new replace method
-my_string=MyStr('aAaADD')
+my_string=MyStr('AAAddBBBcccD')
 print(my_string.replace('AA','c'))
